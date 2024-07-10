@@ -33,6 +33,6 @@
 ---
 
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmonzodasomon&hide=jupyter%20notebook,html,javascript,java,c,c%2B%2B,renderscript,typescript,tex,vba,ruby&theme=onedark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmonzodasomon&theme=onedark&layout=compact" />
 </span>
 
