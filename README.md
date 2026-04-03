@@ -65,11 +65,11 @@
 ### 📊 GitHub Statistics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmonzodasomon&show_icons=true&theme=tokyonight&hide_border=true" alt="usmonzodasomon stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=usmonzodasomon&show_icons=true&theme=tokyonight&hide_border=true" alt="usmonzodasomon stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmonzodasomon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=usmonzodasomon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
